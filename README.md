@@ -3,4 +3,4 @@
 # scaffold
 
 ---
-Hi! this is a project scaffold for Python
+Hi! this is a project scaffold for Python as a sample to be used for Duke AIPI projects. 
