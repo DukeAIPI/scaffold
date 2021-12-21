@@ -1,4 +1,4 @@
-[![build](https://github.com/shyamal-anadkat/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/shyamal-anadkat/scaffold/actions/workflows/main.yml)
+[![build](https://github.com/DukeAIPI/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/DukeAIPI/scaffold/actions/workflows/main.yml)
 
 # scaffold
 
